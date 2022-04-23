@@ -6,7 +6,8 @@
     - Permita buscar una tarea por nombre
     - Marcar la tarea como realizada
     - Quitar la marca de realizada
-    - Ponerle dead line
+    - Obtener la siguiente tarea a realizar (la que tenga el dead line más cercano) 
+    - Obtener la lista de tareas a realizar ordenadas por deadline (del más cercano al más lejano)
 
  - Que debe tener una tarea
     - Nombre/Titulo
